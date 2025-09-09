@@ -14,7 +14,9 @@ Wheat,Paddy,Corn,Tractor: https://github.com/Agribigdata/dataset_code.
 Harvester: https://github.com/AgriMachineryBigData/Field-road_mode_mining.
 
 # Version Information
-Ubuntu 20.04 
-CUDA: 12.4 
-PyTorch: 2.5.1
-Python: 3.10.16
+1.OS: Ubuntu 20.04 
+2.CUDA: 12.4 
+3.PyTorch: 2.5.1
+4.Python: 3.10.16
+GPU: NVIDIA A100
+
