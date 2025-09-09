@@ -12,3 +12,9 @@ Compared with our ICIC 2025 conference paper “ VE-ResBiLSTM: A Deep Spatiotemp
 # Datasets
 Wheat,Paddy,Corn,Tractor: https://github.com/Agribigdata/dataset_code.
 Harvester: https://github.com/AgriMachineryBigData/Field-road_mode_mining.
+
+# Version Information
+Ubuntu 20.04 
+CUDA: 12.4 
+PyTorch: 2.5.1
+Python: 3.10.16
