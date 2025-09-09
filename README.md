@@ -8,3 +8,6 @@ Compared with our ICIC 2025 conference paper “ VE-ResBiLSTM: A Deep Spatiotemp
 4. Comprehensive Ablation Studies: Extensive ablation experiments systematically validate the contributions of DBSCAN augmentation, VAE, and ResBiLSTM, with confusion matrices to illustrate classification effectiveness.
 5. Data-Level Expansion & Evaluation Standard: Two additional agricultural machinery datasets (Harvester, Tractor) are incorporated to test generalization across regions and machine types. Moreover, we propose a trajectory augmentation evaluation standard, introducing Fr´echet, Hausdorff, and LCSS similarity metrics to assess the plausibility and consistency of augmented trajectories. This provides a methodological contribution beyond classification accuracy.
 6. Comparative Benchmarks: Mainstream oversampling methods (SMOTE, ADASYN) are included as baselines, further reinforcing the distinct advantages of the DBSCAN-guided approach.
+# Datasets
+Wheat,Paddy,Corn,Tractor: https://github.com/Agribigdata/dataset_code.
+Harvester: https://github.com/AgriMachineryBigData/Field-road_mode_mining.
